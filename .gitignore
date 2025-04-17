@@ -1,0 +1,17 @@
+# ไฟล์อัปโหลดที่ไม่ต้องเก็บบน Git
+uploads/
+
+# ไฟล์แคชของ Python
+__pycache__/
+*.pyc
+
+# Virtual environment (เช่น venv หรือ env)
+venv/
+env/
+
+# ไฟล์ความลับ
+.env
+
+# ไฟล์ระบบทั่วไป
+.DS_Store
+Thumbs.db
